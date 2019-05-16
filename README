@@ -1,0 +1,5 @@
+
+删除  buildroot-2012.02.tar.bz2文件
+该文件大于100Mb 上传该文件到github会比较麻烦，实际测试删除此文件不影响编译
+如需要此文件可在官方下载包中获取
+文件存放路径：/asuswrt/release/src-rt-9.x/src/toolchains/hndtools-arm-linux-2.6.36-uclibc-4.5.3/src
