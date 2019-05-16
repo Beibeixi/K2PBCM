@@ -1,0 +1,255 @@
+﻿Load language header mapping : HdrMapping.txt
+MODEL: RT-AC3200
+gen model specified, skip
+MODEL: RT-AC87U
+gen model specified, skip
+MODEL: DSL-AC68U
+gen model specified, skip
+MODEL: RT-AC56S
+gen model specified, skip
+MODEL: RT-AC56U
+gen model specified, skip
+MODEL: RT-AC68U
+gen model specified, skip
+MODEL: RT-AC68A
+gen model specified, skip
+MODEL: 4G-AC68U
+gen model specified, skip
+MODEL: RT-AC88U
+gen model specified, skip
+MODEL: RT-AC3100
+gen model specified, skip
+MODEL: RT-AC5300
+gen model specified, skip
+MODEL: GT-AC5300
+gen model specified, skip
+MODEL: RT-AC86U
+gen model specified, skip
+MODEL: AC2900
+gen model specified, skip
+MODEL: GT-AC9600
+gen model specified, skip
+MODEL: BLUECAVE
+gen model specified, skip
+MODEL: RT-AC53U
+gen model specified, skip
+MODEL: RT-N66U
+gen model specified, skip
+MODEL: DSL-N55U
+gen model specified, skip
+MODEL: RT-N36U3
+gen model specified, skip
+MODEL: DSL-N55U-B
+gen model specified, skip
+MODEL: RT-N56U
+gen model specified, skip
+MODEL: RT-N14U
+gen model specified, skip
+MODEL: RT-AC52U
+gen model specified, skip
+MODEL: RT-AC51U
+gen model specified, skip
+MODEL: RT-AC51U+
+gen model specified, skip
+MODEL: RT-AC53
+gen model specified, skip
+MODEL: RT-AC55U
+gen model specified, skip
+MODEL: RT-AC55UHP
+gen model specified, skip
+MODEL: 4G-AC55U
+gen model specified, skip
+MODEL: RT-N19
+gen model specified, skip
+MODEL: RT-AC59U
+gen model specified, skip
+MODEL: PL-N12
+gen model specified, skip
+MODEL: PL-AC56
+gen model specified, skip
+MODEL: PL-AC66U
+gen model specified, skip
+MODEL: RP-AC66
+gen model specified, skip
+MODEL: RP-AC51
+gen model specified, skip
+MODEL: BRT-AC828
+gen model specified, skip
+MODEL: RT-AD7200
+gen model specified, skip
+MODEL: RT-AC88Q
+gen model specified, skip
+MODEL: RT-AC88S
+gen model specified, skip
+MODEL: RT-AC88N
+gen model specified, skip
+MODEL: RT-AC58U
+gen model specified, skip
+MODEL: 4G-AC53U
+gen model specified, skip
+MODEL: RT-AC82U
+gen model specified, skip
+MODEL: RT-N54U
+gen model specified, skip
+MODEL: RT-AC54U
+gen model specified, skip
+MODEL: RT-N56UB1
+gen model specified, skip
+MODEL: RT-N56UB2
+gen model specified, skip
+MODEL: RT-AC1200HP
+gen model specified, skip
+MODEL: RT-AC1200G
+gen model specified, skip
+MODEL: RT-AC1200G+
+gen model specified, skip
+MODEL: RT-N65U
+gen model specified, skip
+MODEL: RT-AC66U
+gen model specified, skip
+MODEL: RT-N53
+gen model specified, skip
+MODEL: RT-N16
+gen model specified, skip
+MODEL: RT-N18U
+gen model specified, skip
+MODEL: RT-N15U
+gen model specified, skip
+MODEL: RT-N12
+gen model specified, skip
+MODEL: RT-N12B1
+gen model specified, skip
+MODEL: RT-N12C1
+gen model specified, skip
+MODEL: RT-N12D1
+gen model specified, skip
+MODEL: RT-N12VP
+gen model specified, skip
+MODEL: RT-N12HP
+gen model specified, skip
+MODEL: RT-N12HP_B1
+gen model specified, skip
+MODEL: RT-N10U
+gen model specified, skip
+MODEL: RT-N14UHP
+gen model specified, skip
+MODEL: RT-N10+
+gen model specified, skip
+MODEL: RT-N10D1
+gen model specified, skip
+MODEL: RT-N10P
+gen model specified, skip
+MODEL: RT-N10PV2
+gen model specified, skip
+MODEL: RT-N11P
+gen model specified, skip
+MODEL: RT-N11P_B1
+gen model specified, skip
+MODEL: RT-N10P_V3
+gen model specified, skip
+MODEL: RT-AC1200
+gen model specified, skip
+MODEL: RT-AC1200GA1
+gen model specified, skip
+MODEL: RT-AC1200GU
+gen model specified, skip
+MODEL: RT-N600
+gen model specified, skip
+MODEL: RT-N300
+gen model specified, skip
+MODEL: MAP-AC1300
+gen model specified, skip
+MODEL: MAP-AC2200
+gen model specified, skip
+MODEL: VZW-AC1300
+gen model specified, skip
+MODEL: MAP-AC1750
+gen model specified, skip
+MODEL: MAP-AC3000
+gen model specified, skip
+MODEL: RT-AC85U
+gen model specified, skip
+MODEL: RT-AC85P
+gen model specified, skip
+MODEL: RT-ACRH26
+gen model specified, skip
+MODEL: RP-AC87
+gen model specified, skip
+MODEL: RP-AC68U
+gen model specified, skip
+MODEL: RP-AC53
+gen model specified, skip
+MODEL: RT-AC65U
+gen model specified, skip
+MODEL: RP-AC55
+gen model specified, skip
+MODEL: RT-N800HP
+gen model specified, skip
+MODEL: K2P
+gen files for this one
+DICT: EN
+LANG:EN=English
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+ENUM:NL=Nederlands
+ENUM:SL=Slovenščina
+DICT: CN
+ENUM:EN=English
+ENUM:TW=繁體中文
+LANG:CN=简体中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+ENUM:NL=Nederlands
+ENUM:SL=Slovenščina
+get modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+It is EN.dict and will generate enum list
+Check duplicated strang and empty line
+**** Validating ****  /home/plp/k2p/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/EN.dict
+get modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+Check duplicated strang and empty line
+**** Validating ****  /home/plp/k2p/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/CN.dict
+Done!

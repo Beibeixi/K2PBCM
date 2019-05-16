@@ -1,0 +1,11 @@
+prefix=
+exec_prefix=
+libdir=/home/plp/k2p/asuswrt/release/src-rt-9.x/src/router/json-c
+includedir=/home/plp/k2p/asuswrt/release/src-rt-9.x/src/router/json-c
+
+Name: json
+Description: JSON implementation in C
+Version: 0.12.1
+Requires:
+Libs:  -L/home/plp/k2p/asuswrt/release/src-rt-9.x/src/router/json-c -ljson-c
+Cflags: -I/home/plp/k2p/asuswrt/release/src-rt-9.x/src/router/json-c
